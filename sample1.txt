@@ -1,0 +1,4 @@
+This is Sample text in Git Programs
+
+This is Second line [D[D[D[D[D[D[C[C[C[C[C update in Sample1 text file
+this is third line
